@@ -4,7 +4,9 @@
 */
 
 html,
-body,
+body body {
+    background-color: black;
+}
 body,
 div,
 span,
